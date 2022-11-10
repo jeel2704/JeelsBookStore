@@ -10,3 +10,9 @@ Update my Readme
 services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true) 
 Completed Part1.1 
 update my readme.txt
+
+11:06 PM 
+Part 1.2 Completed
+Adeed Breakpoints in HomeController.cs and run the application
+It works successfully.
+Updated my Readme.txt
