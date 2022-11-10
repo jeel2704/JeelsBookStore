@@ -29,3 +29,10 @@ Run the applicaTION 11:43 PM it Works successfully
 My selected theme is working...
 My theme name is Flaty.
 Update My readme.txt
+Added css and script link in Layout.cshtml	
+Removed Text-dark from LoginPartoial.cshtml file
+Addded dropdown menu in the NavBar in Layout.cshtml
+
+Run application dropdown mwnu works successfully....
+12:02 AM
+Update my Readme.txt and commit my changes
