@@ -36,3 +36,12 @@ Addded dropdown menu in the NavBar in Layout.cshtml
 Run application dropdown mwnu works successfully....
 12:02 AM
 Update my Readme.txt and commit my changes
+
+2022-11-10 12:06 AM
+Start Part1.4 Adding Project and Modify it...
+Added 3 Class librabry and named it
+JeelsBooks.DataAccess
+JeelsBooks.Models
+JeelsBooks.Utility
+
+Update my readme.txt take a break 12:35 AM
