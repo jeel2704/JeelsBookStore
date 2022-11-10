@@ -16,3 +16,16 @@ Part 1.2 Completed
 Adeed Breakpoints in HomeController.cs and run the application
 It works successfully.
 Updated my Readme.txt
+
+11:28PM 
+Part 1.3 Started
+Download Theme on Bootswatch
+Changed Bootstap.css
+Changed Site.css
+Changed file name from bootswatch.min.css to bootswatch.css  
+Changed code and update code in _layout.cshtml
+Removed text-dark from  _LoginPartial.cshtml
+Run the applicaTION 11:43 PM it Works successfully
+My selected theme is working...
+My theme name is Flaty.
+Update My readme.txt
